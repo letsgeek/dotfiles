@@ -12,5 +12,3 @@ eval "$(starship init zsh)"
 eval "$(direnv hook zsh)"
 autoload -Uz compinit
 compinit
-# fix the terminal!
-export TERM=xterm
