@@ -19,9 +19,9 @@ alias ap="ansible-playbook"
 
 #alias code="open -a 'Visual Studio Code'"
 
-alias gprj="cd $HOME/Projects"
-alias gcs="cd $HOME/Projects/cheat-sheets"
-alias gbp="cd $HOME/Projects/boilerplates"
+alias gprj="cd $HOME/projects"
+alias gans="cd $HOME/repos/ansible"
+#alias gbp="cd $HOME/Projects/boilerplates"
 
 alias ls="exa --icons --group-directories-first -g"
 alias ll="exa --icons --group-directories-first -lg"
