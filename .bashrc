@@ -26,4 +26,4 @@ alias gans="cd $HOME/repos/ansible"
 alias ls="exa --icons --group-directories-first -g"
 alias ll="exa --icons --group-directories-first -lg"
 alias grep='grep --color'
-EDITOR="code -w"
+EDITOR="joe"
